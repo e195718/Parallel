@@ -1,1 +1,1 @@
-# Parallel
+# Julia set
