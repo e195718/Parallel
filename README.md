@@ -10,4 +10,5 @@ $ python3 Julia_Sequentially.py
 $ python3 Julia_Paralell.py
 ```
 ## .ipynb
-location.href.match(https://colab.research.google.com/github/e195718/Parallel/blob/main/Parallel.ipynb) && location.href=location.href.replace("github.com","colab.research.google.com/github")
+- [Open with Colab](https://colab.research.google.com/github/e195718/Parallel/blob/main/Parallel.ipynb)
+- [![Open In Colab](https://colab.research.google.com/github/e195718/Parallel/blob/main/Parallel.ipynb)](https://colab.research.google.com/github/peaceiris/emoji-ime-dictionary/blob/master/generate.ipynb)
